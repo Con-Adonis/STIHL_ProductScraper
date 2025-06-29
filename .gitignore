@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+*.env
+.env
+.vscode/
+venv/
+all_products.csv
+all_products.json
+scraped_data/
+*.sqlite3
+*.db
+*.zip
+*.tar.gz
+.DS_Store
